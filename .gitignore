@@ -1,0 +1,5 @@
+.env/
+__pycache__/
+chrome_driver/
+project_googleMap/__pycache__/
+project_school/__pycache__/
